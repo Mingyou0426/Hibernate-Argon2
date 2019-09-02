@@ -1,0 +1,4 @@
+dao\UserDAO.class
+util\HibernateUtil.class
+controller\AppController.class
+model\Appuser.class
